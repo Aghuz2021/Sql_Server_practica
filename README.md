@@ -12,13 +12,12 @@ Los ejercicios y apuntes están divididos por conceptos lógicos para facilitar 
 | :--- | :--- | :--- |
 | **`01_Integridad_y_Restricciones`** | Diseño de Base de Datos | Creación de tablas, Primary Keys, Foreign Keys, `CHECK`, `DEFAULT`, `NOT NULL`. |
 | **`02_Agrupamiento_y_GroupBy`** | Funciones de Agregación | `SUM`, `AVG`, `COUNT`, `MAX`, `MIN`, agrupamientos con `GROUP BY` y filtrado con `HAVING`. |
-| **`03_Joins_y_Relaciones`** | Combinación de Tablas | *(Próximamente)* `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` y cruce de datos relacionales. |
-| **`04_Subconsultas_y_Vistas`** | Consultas Avanzadas | *(Próximamente)* Consultas anidadas, CTEs (Common Table Expressions) y Vistas. |
+
 
 ## 🛠️ Tecnologías y Herramientas
 - **Motor de Base de Datos:** SQL Server
 - **Lenguaje:** T-SQL
-- **Entorno / IDE:** SQL Server Management Studio (SSMS) / Azure Data Studio
+- **Entorno / IDE:** SQL Server Management Studio (SSMS) 
 
 ## 🚀 Cómo utilizar este repositorio
 Cada carpeta contiene archivos `.sql` independientes con ejercicios prácticos, resolución de consignas y comentarios explicativos dentro del mismo código. 
